@@ -14,3 +14,13 @@ This project was implemented using Python 3.10+ in Jupyter Notebook. The require
 The code was developed and tested on Windows 10, but it is compatible with macOS and Linux. Standard CPU hardware was used, and GPU acceleration was not required.
 
 ## A Map of your documentation
+### Data
+CSV files containing the main dataset for obesity, and the initial training dataset and final test dataset
+### Notebooks
+
+### Output
+Photo output of:
+- Confusion Matrix from the Neural Network and the Random Forest
+- A decision tree model example
+- A linear model using SVM
+- A penalized linear model with ___ penalty
