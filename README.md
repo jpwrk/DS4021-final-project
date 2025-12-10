@@ -39,4 +39,4 @@ Photo output of:
 - Confusion Matrix from the Neural Network and the Random Forest
 - A decision tree model example
 - A linear model using SVM
-- A penalized linear model with ___ penalty
+- A penalized linear model
