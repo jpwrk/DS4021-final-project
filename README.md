@@ -11,7 +11,7 @@ This project was implemented using Python 3.10+ in Jupyter Notebook. The require
 
 - matplotlib and seaborn – for visualizations, including confusion matrices
 
-The code was developed and tested on Windows 10, but it is compatible with macOS and Linux. Standard CPU hardware was used, and GPU acceleration was not required.
+The code was developed and tested on Windows 10, but it is compatible with macOS and Linux.
 
 ## A Map of your documentation
 ### Data
